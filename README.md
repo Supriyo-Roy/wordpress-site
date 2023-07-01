@@ -1,4 +1,4 @@
-Hi Everyone,
+### Hi Everyone,
 
 This script will help you create a WordPress website using the LEMP stack.
 
@@ -6,13 +6,14 @@ The script will run and install all the necessary packages (docker & docker-comp
 
 **Note:** You need to run the script as root.
 
-**Step 1:** Clone the repository: git clone https://github.com/Supriyo-Roy/wordpress-site.git
+**Step 1:** Clone the repository: git clone *https://github.com/Supriyo-Roy/wordpress-site.git*
+
 **Step 2:** Run the script:sudo bash script.sh
 
 This will prompt you to choose your options.
 
 **Step 3:** Choose your desired option.
 
-**Step 4:** To view your site, select option 2.
+**Step 4:** To view your site, select option *2*.
 
-**Step 5:** To delete all containers and local files, select option 3.
+**Step 5:** To delete all containers and local files, select option *3*.
