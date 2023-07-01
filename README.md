@@ -1,13 +1,11 @@
 ## Hi Everyone,
 
 ### This script will help you create a WordPress website using the LEMP stack.
-
 ### The script will run and install all the necessary packages (docker & docker-compose) to set up the website. It is compatible with both *Red Hat-based* and *Debian-based distributions*.**
 
-### The script will create 3 containers ,MySQL, Nginx, Wordpress (this image contains PHP) LEMP Stack
+### The script will create 3 containers ,MySQL, Nginx, Wordpress (this image contains PHP)
 
 **Note:** You need to run the script as  root.
-
 ### **Step 1:** Clone the repository: 
 
 ```sh
