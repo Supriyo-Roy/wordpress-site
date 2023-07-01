@@ -6,9 +6,9 @@ This script will run and install all the necesary packages (docker & docker-comp
 
 * You need to run the script as root
 
-## Step 1: git clone [Link text]https://github.com/Supriyo-Roy/wordpress-site.git
+### Step 1: git clone https://github.com/Supriyo-Roy/wordpress-site.git
 
-## step 2: sudo bash script.sh
+### step 2: sudo bash script.sh
 
 This will give you a prompt to choose your options like :-
 
