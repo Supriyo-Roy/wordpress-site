@@ -12,6 +12,9 @@
 '''sh 
 sudo bash script.sh 
 '''
+```sh
+node app
+```
 
 ### This will prompt you to choose your options.
 
