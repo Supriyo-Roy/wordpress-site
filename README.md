@@ -1,4 +1,4 @@
-### Hi Everyone,
+## Hi Everyone,
 
 This script will help you create a WordPress website using the LEMP stack.
 
