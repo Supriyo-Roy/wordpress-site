@@ -11,11 +11,11 @@
 ```sh
 git clone *https://github.com/Supriyo-Roy/wordpress-site.git
 ```
-### **Step 2:** Run the script: 
+### **Step 2:** Run the script :-
 ```sh 
 sudo bash script.sh 
 ```
-### This will prompt you to choose your options.
+### This will prompt you to choose your options from below :-
 
 ```plaintext
 Enter the site name: example.com
@@ -28,8 +28,8 @@ Select an option:
 
 ### **Step 3:** Choose your desired option.
 
-## **Step 4:** To view your site, select option *2*.
+### **Step 4:** To view your site, select option *2*.
 
-## **Step 5:** To delete all containers and local files, select option *3*.
+### **Step 5:** To delete all containers and local files, select option *3*.
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
