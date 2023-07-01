@@ -19,3 +19,5 @@ sudo bash script.sh
 ## **Step 4:** To view your site, select option *2*.
 
 ## **Step 5:** To delete all containers and local files, select option *3*.
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
