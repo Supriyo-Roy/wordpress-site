@@ -17,7 +17,7 @@ sudo bash script.sh
 ```
 ### This will prompt you to choose your options from below :-
 
-## Firstly enter your desired site name
+### Firstly enter your desired site name like *example.com*
 
 ```plaintext
 Enter the site name: example.com
