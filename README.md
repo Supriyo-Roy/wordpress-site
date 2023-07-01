@@ -9,7 +9,7 @@
 ### **Step 1:** Clone the repository: 
 
 ```sh
-git clone *https://github.com/Supriyo-Roy/wordpress-site.git
+git clone https://github.com/Supriyo-Roy/wordpress-site.git
 ```
 ### **Step 2:** Run the script :-
 ```sh 
