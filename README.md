@@ -17,6 +17,8 @@ sudo bash script.sh
 ```
 ### This will prompt you to choose your options from below :-
 
+## Firstly enter your desired site name
+
 ```plaintext
 Enter the site name: example.com
 1. Create and Enable WordPress site
