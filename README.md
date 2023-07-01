@@ -4,7 +4,7 @@
 
 **The script will run and install all the necessary packages (docker & docker-compose) to set up the website. It is compatible with both Red Hat-based and Debian-based distributions.**
 
-**Note:** You need to run the script as root.
+**Note:** You need to run the script as 'root'.
 
 ### **Step 1:** Clone the repository: git clone *https://github.com/Supriyo-Roy/wordpress-site.git*
 
