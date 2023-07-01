@@ -8,9 +8,9 @@ This script will help you create a WordPress website using the LEMP stack.
 
 ### **Step 1:** Clone the repository: git clone *https://github.com/Supriyo-Roy/wordpress-site.git*
 
-### **Step 2:** Run the script: '''sudo bash script.sh'''
+### **Step 2:** Run the script: <span style="color: red;"> sudo bash script.sh </span>
 
-This will prompt you to choose your options.
+### This will prompt you to choose your options.
 
 ### **Step 3:** Choose your desired option.
 
